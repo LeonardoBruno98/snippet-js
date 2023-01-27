@@ -4,3 +4,4 @@ Welcome to this repository! Here you can find some useful snipped code to integr
 | Title | Difficulty | 🔗 |
 |:-----:|:----------:|:--:|
 |***HTTP 404 images***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-js/blob/main/http-404-error-image.js)|
+|***HTTP 404 images***|Medium 🟡 | [`Link`](https://github.com/LeonardoBruno98/snippet-js/blob/main/handling-tabs.js)|
